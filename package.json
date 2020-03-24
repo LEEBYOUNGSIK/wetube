@@ -1,0 +1,22 @@
+{
+  "name": "cloneyoutube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube using vanilaJS with nodeJS111",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEEBYOUNGSIK/wetube.git"
+  },
+  "author": "BruceLEE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEEBYOUNGSIK/wetube/issues"
+  },
+  "homepage": "https://github.com/LEEBYOUNGSIK/wetube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
