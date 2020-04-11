@@ -1,4 +1,6 @@
 package-lock.json
+uploads
+static
 # Logs
 logs
 *.log
